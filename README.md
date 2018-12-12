@@ -1,2 +1,2 @@
-# Project-Files
+# Project-Files-Gaetan-Gil-&-Thibault-Talaszka
 Python project
